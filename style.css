@@ -1,6 +1,24 @@
 .attribution { 
     font-size: 11px; text-align: center; 
 }
+
 .attribution a {
      color: hsl(228, 45%, 44%); 
     }
+
+.new {
+    color: red;
+    font-style: italic;
+}
+
+.newLabel {
+    border-color: red;
+}
+
+.newButton {
+    margin-left: 7px;
+}
+
+.newButtonCopied {
+    background-color:hsl(228, 45%, 44%);
+}
